@@ -94,7 +94,7 @@ tornado==6.1
 traitlets==5.2.1.post0
 tzdata==2022.1
 tzlocal==4.2
-ujson==5.2.0
+ujson==5.4.0
 urllib3==1.26.9
 virtualenv==20.14.1
 wcwidth==0.2.5
